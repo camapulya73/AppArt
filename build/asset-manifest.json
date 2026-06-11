@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AppArt/static/css/main.01b0643d.css",
+    "main.js": "/AppArt/static/js/main.77cb5596.js",
+    "index.html": "/AppArt/index.html",
+    "main.01b0643d.css.map": "/AppArt/static/css/main.01b0643d.css.map",
+    "main.77cb5596.js.map": "/AppArt/static/js/main.77cb5596.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01b0643d.css",
+    "static/js/main.77cb5596.js"
+  ]
+}
